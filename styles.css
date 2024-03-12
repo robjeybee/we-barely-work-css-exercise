@@ -97,3 +97,23 @@ button {
     font-weight: 700;
     cursor: pointer;
 }
+
+
+.chatbox-bg {
+  background-color: #dda15e;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  position: fixed;
+  bottom: 12px;
+  right: 50%;
+  left: 50%;
+  cursor: pointer;
+  border: #282828 1px solid;
+}
+
+.chatbox-img {
+  width: 50%;
+  margin: auto;
+}
